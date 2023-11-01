@@ -5,6 +5,7 @@ import pandas as pd
 # Mapboxのアクセストークンをセットします。
 MAPBOX_ACCESS_TOKEN = "Set Your Token"
 
+
 # MapboxのマップマッチングAPIのURL
 MAPBOX_MATCHING_URL = "https://api.mapbox.com/matching/v5/mapbox/driving/{coordinates}?access_token={access_token}"
 
